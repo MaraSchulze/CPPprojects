@@ -20,9 +20,12 @@ The description of the projects are in the respective folder in the pdf.
 | Project 9       |               |         |
 
 ## Usage
+Those programs were written for and compiled on a Mac.  
 ```
 cd CPP<n>
+cd ex<0x>
 make
+./<programname>
 ```
 
 ## Caveats
