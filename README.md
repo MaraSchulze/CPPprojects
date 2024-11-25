@@ -1,6 +1,6 @@
 # All 10 CPP Projects of 42School
 The 10 CPP projects taught us the basics of object-oriented programming and the basics of CPP.  
-The description of the projects are in the respective folder in the pdf.  
+The description of the projects are in the respective project folder in the pdf file.  
 
 ## I passed all projects with 100%
 <img src="ScreenshotSuccess.png" alt="Success Photo" width="200">
