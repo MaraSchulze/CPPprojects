@@ -3,7 +3,7 @@ The 10 CPP projects taught us the basics of object-oriented programming and the 
 The description of the projects are in the respective folder in the pdf.  
 
 ## I passed all projects with 100%
-<img src="ScreenshopSuccess.png" alt="Success Photo" width="200">
+<img src="ScreenshotSuccess.png" alt="Success Photo" width="200">
 
 ## Content
 | CPP Project     | Learning Goal | Content |
