@@ -20,7 +20,7 @@ The description of the projects are in the respective project folder in the pdf 
 | Project 9       | STL | Stock Trading, Reverse Polish Notation, Ford-Johnson Algorithm |
 
 ## Usage
-Those programs were written for and compiled on a Mac.  
+These programs were written for and compiled on a Mac.  
 ```
 cd CPP<n>
 cd ex<0x>
