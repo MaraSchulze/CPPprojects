@@ -8,16 +8,16 @@ The description of the projects are in the respective project folder in the pdf 
 ## Content
 | CPP Project     | Learning Goal | Content |
 |-----------------|---------------|---------|
-| Project 0       |               |         |
-| Project 1       |               |         |
-| Project 2       |               |         |
-| Project 3       |               |         |
-| Project 4       |               |         |
-| Project 5       |               |         |
-| Project 6       |               |         |
-| Project 7       |               |         |
-| Project 8       |               |         |
-| Project 9       |               |         |
+| Project 0       | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff | Megaphone, Phone Book, Dream Job |
+| Project 1       | Memory allocation, pointers to members, references, switch statement | Zombies, sed, Harl |
+| Project 2       | Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form | Fixed-point Numbers |
+| Project 3       | Inheritance | ClapTrap and his Robot Friends |
+| Project 4       | Subtype polymorphism, abstract classes, interfaces | Animals |
+| Project 5       | Repetition and Exceptions | Bureaucrats |
+| Project 6       | C++ casts | Scalar Types, Serialization, Class Identification |
+| Project 7       | C++ templates | Operators, Iter, Array |
+| Project 8       | Templated containers, iterators, algorithms | Find, Span, MutantStack |
+| Project 9       | STL | Stock Trading, Reverse Polish Notation, Ford-Johnson Algorithm |
 
 ## Usage
 Those programs were written for and compiled on a Mac.  
